@@ -2,6 +2,9 @@
 # Agenctic DataFrame Chatbot
 
 A chatbot designed for interacting with tabular data (CSV/Excel files) in a conversational way, without the need for coding.
+## Demo Video
+click on video to see demo of the project
+[![Watch the demo on YouTube](https://img.youtube.com/vi/CJGlYTn7_0g/0.jpg)](https://www.youtube.com/watch?v=CJGlYTn7_0g)
 
 ## Overview
 Agenctic DataFrame Chatbot allows users to load CSV or Excel files and engage with their data in natural language. This chatbot leverages conversational AI and pandas functionality to make data analysis accessible to non-programmers, enabling users to perform a full range of DataFrame operations through simple chat interactions.
@@ -71,7 +74,7 @@ For any questions or support, please open an issue in the GitHub repository.
 
 
 
-
+## Important Libraries 
 fastapi
 uvicorn
 python-multipart
